@@ -1,9 +1,9 @@
-To rename a sprite in Scratch, click on the sprite:
+Ha át szeretnél nevezni egy szereplőt a Scratchben, kattints rá a szereplőre:
 
-![screenshot](images/rename-info.png)
+![képernyőkép](images/rename-info.png)
 
-The information about the sprite will be displayed above:
+A szereplő információi fent jelennek meg:
 
-![screenshot](images/rename-change.png)
+![képernyőkép](images/rename-change.png)
 
-Edit the name of the sprite.
+Írd át a szereplő nevét.
