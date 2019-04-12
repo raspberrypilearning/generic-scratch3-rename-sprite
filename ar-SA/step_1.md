@@ -1,9 +1,9 @@
-To rename a sprite in Scratch, click on the sprite:
+لإعادة تسمية كائن في Scratch، انقر فوق الكائن:
 
-![لقطة شاشة](images/rename-info.png)
+![لقطة الشاشة](images/rename-info.png)
 
-The information about the sprite will be displayed above:
+المعلومات الخاصة بالكائن ستظهر بالأعلى:
 
 ![لقطة الشاشة](images/rename-change.png)
 
-Edit the name of the sprite.
+قم بتحرير اسم الكائن.
