@@ -1,9 +1,9 @@
-To rename a sprite in Scratch, click on the sprite:
+Klicke auf eine Figur, um sie in Scratch umzubenennen:
 
 ![Screenshot](images/rename-info.png)
 
-The information about the sprite will be displayed above:
+Die Informationen zu einer Figur werden oben angezeigt:
 
 ![screenshot](images/rename-change.png)
 
-Edit the name of the sprite.
+Verändere den Namen der Figur.
