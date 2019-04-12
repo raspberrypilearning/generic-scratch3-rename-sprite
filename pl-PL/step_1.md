@@ -1,9 +1,9 @@
-To rename a sprite in Scratch, click on the sprite:
+Aby zmienić nazwę duszka w Scratchu, kliknij na duszku:
 
-![screenshot](images/rename-info.png)
+![zrzut ekranu](images/rename-info.png)
 
-The information about the sprite will be displayed above:
+Informacje o duszku wyświetlą się powyżej:
 
 ![zrzut ekranu](images/rename-change.png)
 
-Edit the name of the sprite.
+Zmień nazwę duszka.
