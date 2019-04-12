@@ -1,9 +1,9 @@
-To rename a sprite in Scratch, click on the sprite:
+Scratch 'te bir kuklayı yeniden isimlendirmek için kuklanın üzerine tıklayın:
 
-![screenshot](images/rename-info.png)
+![ekran görüntüsü](images/rename-info.png)
 
-The information about the sprite will be displayed above:
+Kukla hakkındaki bilgi, üzerinde görüntülenecektir:
 
-![screenshot](images/rename-change.png)
+![ekran görüntüsü](images/rename-change.png)
 
-Edit the name of the sprite.
+Kuklanın adını düzenleyin.
