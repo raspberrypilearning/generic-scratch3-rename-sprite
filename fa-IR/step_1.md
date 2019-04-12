@@ -1,9 +1,9 @@
-To rename a sprite in Scratch, click on the sprite:
+برای تغییر نام یک شبح در اسکرچ، روی شبح کلیک کنید:
 
-![screenshot](images/rename-info.png)
+![عکس صفحه](images/rename-info.png)
 
-The information about the sprite will be displayed above:
+اطلاعات در مورد شبح، در بالا نمایش داده خواهد شد:
 
-![screenshot](images/rename-change.png)
+![عکس صفحه](images/rename-change.png)
 
-Edit the name of the sprite.
+نام شبح را ویرایش کنید.
