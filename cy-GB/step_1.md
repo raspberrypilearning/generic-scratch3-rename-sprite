@@ -1,9 +1,9 @@
-To rename a sprite in Scratch, click on the sprite:
+I ailenw corlun yn Scratch, clicia ar y corlun:
 
-![screenshot](images/rename-info.png)
+![sgrinlun](images/rename-info.png)
 
-The information about the sprite will be displayed above:
+Bydd y wybodaeth am y corlun yn ymddangos uchod:
 
-![screenshot](images/rename-change.png)
+![sgrinlun](images/rename-change.png)
 
-Edit the name of the sprite.
+Golyga enw'r corlun.
