@@ -1,9 +1,9 @@
-To rename a sprite in Scratch, click on the sprite:
+Spraidi ümbernimetamiseks Scratchis klõpsa spraidil:
 
-![screenshot](images/rename-info.png)
+![kuvatõmmis](images/rename-info.png)
 
-The information about the sprite will be displayed above:
+Teave spraidi kohta kuvatakse ülal:
 
-![screenshot](images/rename-change.png)
+![kuvatõmmis](images/rename-change.png)
 
-Edit the name of the sprite.
+Muuda spraidi nime.
