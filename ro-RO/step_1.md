@@ -1,4 +1,4 @@
-Pentru a redenumi un personaj în Scratch, dă clic pe personaj:
+Pentru a redenumi un personaj în Scratch, dă click pe personaj:
 
 ![captură de ecran](images/rename-info.png)
 
