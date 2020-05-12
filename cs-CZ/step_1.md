@@ -1,9 +1,9 @@
-To rename a sprite in Scratch, click on the sprite:
+Když chceš přejmenovat postavu ve Scratchi, klikni na postavu:
 
-![screenshot](images/rename-info.png)
+![snímek obrazovky](images/rename-info.png)
 
-The information about the sprite will be displayed above:
+Informace o postavě budou zobrazeny výše:
 
-![screenshot](images/rename-change.png)
+![snímek obrazovky](images/rename-change.png)
 
-Edit the name of the sprite.
+Uprav název postavy.
