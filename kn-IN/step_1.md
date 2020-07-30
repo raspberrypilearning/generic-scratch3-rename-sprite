@@ -1,9 +1,9 @@
-To rename a sprite in Scratch, click on the sprite:
+ಸ್ಕ್ರ್ಯಾಚ್‌ನಲ್ಲಿ ಸ್ಪ್ರೈಟ್ ಅನ್ನು ಮರುಹೆಸರಿಸಲು, ಸ್ಪ್ರೈಟ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ:
 
-![screenshot](images/rename-info.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/rename-info.png)
 
-The information about the sprite will be displayed above:
+ಸ್ಪ್ರೈಟ್ ಬಗ್ಗೆ ಮಾಹಿತಿಯನ್ನು ಮೇಲೆ ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ:
 
-![screenshot](images/rename-change.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/rename-change.png)
 
-Edit the name of the sprite.
+ಸ್ಪ್ರೈಟ್ ಹೆಸರನ್ನು ಸಂಪಾದಿಸಿ.
